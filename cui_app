@@ -1,0 +1,10 @@
+jq
+wget
+tree
+peco
+vim
+anyenv
+direnv
+go
+ghq
+yarn
