@@ -1,0 +1,7 @@
+## M2 Macbook Air
+
+基本的にはREADMEの内容でセットアップ
+npm i -g hardhatnpm
+npm i -g thirdweb
+
+
